@@ -1,6 +1,6 @@
 <form method="post" id="smsFrm" name="smsFrm">
     <input type="hidden" value="ss" id="ssaction" name="ssaction">
-    <input type="hidden" value="####" id="Token" name="Token" />  <-- Token is 37 character long
+    <input type="hidden" value="####" id="Token" name="Token" />  <!-- Token is 37 character long -->
     
     <div class="Sms fl">
         <label>Mobile Number</label>
