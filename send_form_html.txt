@@ -1,0 +1,20 @@
+<form method="post" id="smsFrm" name="smsFrm">
+    <input type="hidden" value="ss" id="ssaction" name="ssaction">
+    <input type="hidden" value="####" id="Token" name="Token" />  <-- Token is 37 character long
+    
+    <div class="Sms fl">
+        <label>Mobile Number</label>
+        <div class="m91">
+            <span>+91</span>
+            <input type="text" id="mobile" name="mobile"  />
+        </div>
+            
+        <label>Message</label>
+        <textarea id="message" name="message"></textarea>
+
+
+        <div class="let">
+            <input type="button" class="button br2up" onclick="return sendMessage();" id="Send" name="Send" value="Send SMS">
+        </div>
+    </div>
+</form>
