@@ -6,7 +6,7 @@ Send SMS Via Way2SMS from PHP.
 > **Note:** Project was originally delveloped [here](https://github.com/kingster/Way2SMS-API)
 
 <del>Tested Working with Way2SMS UI Version 4. Supports upto 140 Characters</del>.
-<del>Way2SMS has added a Captcha Verification. Will update when I can find a workaround.</del>
+<del>Way2SMS has added a Captcha Verification. Will update when I can find a workaround</del>.
 UPDATE: Again Fully functional after some modifications!!
 
 
